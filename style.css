@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(-120deg, #e4ea75, rgb(243, 244, 203));
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+
+
+}
+
+.botao {
+    margin-left: 37px;
+
+}
+
+.botao button {
+
+    width: 60px;
+
+}
+
+h1 {
+    color: rgb(26, 97, 159);
+
+}
+
+button {
+    border: 1px solid #7b7777;
+    border-radius: 5px;
+
+}
+
+button:hover {
+    background-color: yellow;
+
+
+}
+
+img {
+
+    width: 200px;
+    border-radius: 20px;
+    border: 1px solid #333;
+    cursor: pointer;
+}
+
+.apagar:hover {
+    background-color: black;
+    color: white;
+
+}
